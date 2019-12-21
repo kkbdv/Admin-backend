@@ -1,0 +1,6 @@
+edu\kkbdv\controller\VideoController.class
+edu\kkbdv\controller\ForumController.class
+edu\kkbdv\bean\AdminUser.class
+edu\kkbdv\controller\UsersController.class
+edu\kkbdv\controller\HelloController.class
+edu\kkbdv\interceptor\LoginInterceptor.class

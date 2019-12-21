@@ -1,0 +1,1197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="mini-video-admin-mng:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2e0e58d1-bc0f-42df-a891-cfd89680fad6" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/mini-video-admin-common/target/" />
+    <ignored path="$PROJECT_DIR$/mini-video-admin-mapper/target/" />
+    <ignored path="$PROJECT_DIR$/mini-video-admin-pojo/target/" />
+    <ignored path="$PROJECT_DIR$/mini-video-admin-service/target/" />
+    <ignored path="$PROJECT_DIR$/mini-video-admin-mng/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mini-video-admin-mng/src/main/webapp/WEB-INF/center/hello.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="19">
+              <caret line="1" column="25" selection-start-line="1" selection-start-column="25" selection-end-line="1" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mini-video-admin-mng/src/main/webapp/WEB-INF/center/imooc.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="209">
+              <caret line="11" column="8" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mini-video-admin-mng/src/main/webapp/WEB-INF/center/login.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="114">
+              <caret line="6" column="11" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mini-video-admin-mng/src/main/java/edu/kkbdv/controller/ForumController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="247">
+              <caret line="21" selection-start-line="21" selection-end-line="21" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mini-video-admin-service/src/main/java/edu/kkbdv/service/impl/VideoServiceImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2204">
+              <caret line="139" column="55" selection-start-line="139" selection-start-column="55" selection-end-line="139" selection-end-column="55" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mini-video-admin-mng/src/main/java/edu/kkbdv/controller/UsersController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="304">
+              <caret line="37" column="56" selection-start-line="37" selection-start-column="56" selection-end-line="37" selection-end-column="56" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/mini-video-admin-mng/src/main/java/edu/kkbdv/bean/AdminUser.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="279">
+              <caret line="15" column="35" selection-start-line="15" selection-start-column="35" selection-end-line="15" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mini-video-admin-mapper/src/main/java/edu/kkbdv/mapper/UsersReportMapperCustom.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="133">
+              <caret line="9" column="9" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mini-video-admin-mapper/src/main/java/edu/kkbdv/mapper/UsersReportMapperCustom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="437">
+              <caret line="23" selection-start-line="23" selection-end-line="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mini-video-admin-mapper/src/main/java/edu/kkbdv/mapper/VideosMapper.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="76">
+              <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jsp File" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>spring-data-redis.version</find>
+      <find>mybatis-paginator</find>
+      <find>mybatis</find>
+      <find>imooc-video-admin-mng</find>
+      <find>mini-video-admin</find>
+      <find>com.imooc</find>
+      <find>Host</find>
+      <find>hdnContextPath</find>
+      <find>apiServer</find>
+      <find>showReportList</find>
+      <find>usersReportsList_wrapper</find>
+      <find>Base_Column_List</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>mini-video-admin</replace>
+      <replace>mini-video-admin-mng</replace>
+      <replace>edu.kkbdv</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/mini-video-admin-mng/src/main/java/edu/kkbdv/bean/AdminUser.java" />
+        <option value="$PROJECT_DIR$/mini-video-admin-mng/src/main/java/edu/kkbdv/controller/HelloController.java" />
+        <option value="$PROJECT_DIR$/mini-video-admin-common/src/main/java/edu/kkbdv/utils/MD5Utils.java" />
+        <option value="$PROJECT_DIR$/mini-video-admin-common/src/main/java/edu/kkbdv/enums/BGMOperatorTypeEnum.java" />
+        <option value="$PROJECT_DIR$/mini-video-admin-mapper/pom.xml" />
+        <option value="$PROJECT_DIR$/mini-video-admin-pojo/src/main/java/edu/kkbdv/pojo/Bgm.java" />
+        <option value="$PROJECT_DIR$/mini-video-admin-pojo/src/main/java/edu/kkbdv/pojo/vo/Reports.java" />
+        <option value="$PROJECT_DIR$/mini-video-admin-mapper/src/main/java/edu/kkbdv/mapper/BgmMapper.java" />
+        <option value="$PROJECT_DIR$/mini-video-admin-mapper/src/main/java/edu/kkbdv/mapper/UsersMapper.java" />
+        <option value="$PROJECT_DIR$/mini-video-admin-mapper/src/main/java/edu/kkbdv/mapper/BgmMapper.xml" />
+        <option value="$PROJECT_DIR$/mini-video-admin-mapper/src/main/java/edu/kkbdv/mapper/UsersMapper.xml" />
+        <option value="$PROJECT_DIR$/mini-video-admin-mapper/src/main/java/edu/kkbdv/mapper/UsersReportMapper.java" />
+        <option value="$PROJECT_DIR$/mini-video-admin-mapper/src/main/java/edu/kkbdv/mapper/UsersReportMapper.xml" />
+        <option value="$PROJECT_DIR$/mini-video-admin-mapper/src/main/java/edu/kkbdv/mapper/VideosMapper.java" />
+        <option value="$PROJECT_DIR$/mini-video-admin-mapper/src/main/java/edu/kkbdv/mapper/VideosMapper.xml" />
+        <option value="$PROJECT_DIR$/mini-video-admin-service/src/main/java/edu/kkbdv/service/util/ZKCurator.java" />
+        <option value="$PROJECT_DIR$/mini-video-admin-service/src/main/java/edu/kkbdv/web/util/ZKCurator.java" />
+        <option value="$PROJECT_DIR$/mini-video-admin-mng/src/main/java/edu/kkbdv/interceptor/LoginInterceptor.java" />
+        <option value="$PROJECT_DIR$/mini-video-admin-mng/src/main/resources/spring/applicationContext-transaction.xml" />
+        <option value="$PROJECT_DIR$/mini-video-admin-mng/src/main/resources/spring/applicationContext-dao.xml" />
+        <option value="$PROJECT_DIR$/mini-video-admin-mng/src/main/resources/spring/applicationContext-zookeeper.xml" />
+        <option value="$PROJECT_DIR$/mini-video-admin-mng/src/main/resources/resource/db.properties" />
+        <option value="$PROJECT_DIR$/mini-video-admin-mng/src/main/webapp/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/mini-video-admin-mng/target/tomcat/conf/web.xml" />
+        <option value="$PROJECT_DIR$/mini-video-admin-mng/src/main/resources/spring/springmvc.xml" />
+        <option value="$PROJECT_DIR$/mini-video-admin-mng/src/main/resources/spring/applicationContext-service.xml" />
+        <option value="$PROJECT_DIR$/mini-video-admin-mng/src/main/resources/server.xml" />
+        <option value="$PROJECT_DIR$/mini-video-admin-mng/pom.xml" />
+        <option value="$PROJECT_DIR$/mini-video-admin-mng/src/main/webapp/WEB-INF/center/video/reportList.jsp" />
+        <option value="$PROJECT_DIR$/mini-video-admin-mng/src/main/webapp/WEB-INF/center/common/commonFooterJS.jsp" />
+        <option value="$PROJECT_DIR$/mini-video-admin-mng/src/main/webapp/WEB-INF/center/imooc.jsp" />
+        <option value="$PROJECT_DIR$/mini-video-admin-mng/src/main/webapp/WEB-INF/center/common/menu.jsp" />
+        <option value="$PROJECT_DIR$/mini-video-admin-mapper/src/main/java/edu/kkbdv/mapper/ForumMapper.java" />
+        <option value="$PROJECT_DIR$/mini-video-admin-pojo/src/main/java/edu/kkbdv/pojo/vo/ForumVo.java" />
+        <option value="$PROJECT_DIR$/mini-video-admin-mapper/src/main/java/edu/kkbdv/mapper/ForumMapper.xml" />
+        <option value="$PROJECT_DIR$/mini-video-admin-mng/src/main/webapp/WEB-INF/center/forum/forumList.jsp" />
+        <option value="$PROJECT_DIR$/mini-video-admin-mng/src/main/webapp/static/pages/js/forumList.js" />
+        <option value="$PROJECT_DIR$/mini-video-admin-service/src/main/java/edu/kkbdv/service/ForumService.java" />
+        <option value="$PROJECT_DIR$/mini-video-admin-service/src/main/java/edu/kkbdv/service/impl/ForumServiceImpl.java" />
+        <option value="$PROJECT_DIR$/mini-video-admin-service/src/main/java/edu/kkbdv/service/UsersService.java" />
+        <option value="$PROJECT_DIR$/mini-video-admin-mng/src/main/webapp/static/pages/js/usersList.js" />
+        <option value="$PROJECT_DIR$/mini-video-admin-mng/src/main/java/edu/kkbdv/controller/UsersController.java" />
+        <option value="$PROJECT_DIR$/mini-video-admin-service/src/main/java/edu/kkbdv/service/impl/UsersServiceImpl.java" />
+        <option value="$PROJECT_DIR$/mini-video-admin-service/src/main/java/edu/kkbdv/service/VideoService.java" />
+        <option value="$PROJECT_DIR$/mini-video-admin-mapper/src/main/java/edu/kkbdv/mapper/UsersReportMapperCustom.java" />
+        <option value="$PROJECT_DIR$/mini-video-admin-mapper/src/main/java/edu/kkbdv/mapper/UsersReportMapperCustom.xml" />
+        <option value="$PROJECT_DIR$/mini-video-admin-service/src/main/java/edu/kkbdv/service/impl/VideoServiceImpl.java" />
+        <option value="$PROJECT_DIR$/mini-video-admin-mng/src/main/java/edu/kkbdv/controller/VideoController.java" />
+        <option value="$PROJECT_DIR$/mini-video-admin-mng/src/main/webapp/static/pages/js/reportList.js" />
+        <option value="$PROJECT_DIR$/mini-video-admin-mng/src/main/webapp/WEB-INF/center/login.jsp" />
+        <option value="$PROJECT_DIR$/mini-video-admin-mng/src/main/java/edu/kkbdv/controller/ForumController.java" />
+      </list>
+    </option>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="userSettingsFile" value="G:\Maven\apache-maven-3.3.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="560" />
+    <option name="y" value="510" />
+    <option name="width" value="980" />
+    <option name="height" value="1050" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="mini-video-admin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mini-video-admin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mini-video-admin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mini-video-admin" type="462c0819:PsiDirectoryNode" />
+              <item name="mini-video-admin-common" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mini-video-admin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mini-video-admin" type="462c0819:PsiDirectoryNode" />
+              <item name="mini-video-admin-common" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mini-video-admin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mini-video-admin" type="462c0819:PsiDirectoryNode" />
+              <item name="mini-video-admin-mapper" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mini-video-admin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mini-video-admin" type="462c0819:PsiDirectoryNode" />
+              <item name="mini-video-admin-mng" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mini-video-admin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mini-video-admin" type="462c0819:PsiDirectoryNode" />
+              <item name="mini-video-admin-mng" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mini-video-admin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mini-video-admin" type="462c0819:PsiDirectoryNode" />
+              <item name="mini-video-admin-mng" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mini-video-admin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mini-video-admin" type="462c0819:PsiDirectoryNode" />
+              <item name="mini-video-admin-mng" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mini-video-admin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mini-video-admin" type="462c0819:PsiDirectoryNode" />
+              <item name="mini-video-admin-mng" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mini-video-admin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mini-video-admin" type="462c0819:PsiDirectoryNode" />
+              <item name="mini-video-admin-mng" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mini-video-admin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mini-video-admin" type="462c0819:PsiDirectoryNode" />
+              <item name="mini-video-admin-service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mini-video-admin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mini-video-admin" type="462c0819:PsiDirectoryNode" />
+              <item name="mini-video-admin-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mini-video-admin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mini-video-admin" type="462c0819:PsiDirectoryNode" />
+              <item name="mini-video-admin-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mini-video-admin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mini-video-admin" type="462c0819:PsiDirectoryNode" />
+              <item name="mini-video-admin-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mini-video-admin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mini-video-admin" type="462c0819:PsiDirectoryNode" />
+              <item name="mini-video-admin-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="kkbdv" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mini-video-admin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mini-video-admin" type="462c0819:PsiDirectoryNode" />
+              <item name="mini-video-admin-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="kkbdv" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1575991151494" />
+    <property name="last_opened_file_path" value="G:/kkbdv_dev" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="G:\temp\mini-video-admin\mini-video-admin-mng\src\main" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\temp\mini-video-admin\mini-video-admin-pojo\src\main\java\edu\kkbdv\pojo\vo" />
+      <recent name="G:\temp\mini-video-admin\mini-video-admin-mapper\src\main\java\edu\kkbdv\mapper" />
+      <recent name="G:\temp\mini-video-admin\mini-video-admin-pojo\src\main\java\edu\kkbdv\pojo" />
+      <recent name="G:\temp\mini-video-admin\mini-video-admin-service\src\main\java\edu\kkbdv\service" />
+      <recent name="G:\temp\mini-video-admin\mini-video-admin-common\src\main\java\edu\kkbdv\enums" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Tomcat 8.5.331" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.331" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <option name="UPDATE_ON_FRAME_DEACTIVATION" value="true" />
+      <option name="UPDATE_CLASSES_ON_FRAME_DEACTIVATION" value="true" />
+      <deployment>
+        <artifact name="mini-video-admin-mng:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+        <file path="G:/kkbdv_dev">
+          <settings>
+            <option name="CONTEXT_PATH" value="/kkbdv" />
+          </settings>
+        </file>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Tomcat_8_5_331_mini-video-admin" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="57456" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="mini-video-admin-mng:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.331" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment />
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="_mini-video-admin" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="57456" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2e0e58d1-bc0f-42df-a891-cfd89680fad6" name="Default Changelist" comment="" />
+      <created>1575441683755</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575441683755</updated>
+      <workItem from="1575441687874" duration="1214000" />
+      <workItem from="1575510262007" duration="820000" />
+      <workItem from="1575511185488" duration="9094000" />
+      <workItem from="1575532325003" duration="6086000" />
+      <workItem from="1575853077551" duration="6219000" />
+      <workItem from="1575885894002" duration="14787000" />
+      <workItem from="1575938930946" duration="7156000" />
+      <workItem from="1575977447125" duration="11931000" />
+      <workItem from="1576025073264" duration="6259000" />
+      <workItem from="1576072641297" duration="2024000" />
+      <workItem from="1576213418612" duration="1121000" />
+      <workItem from="1576592991893" duration="1337000" />
+      <workItem from="1576637380437" duration="1821000" />
+      <workItem from="1576676108762" duration="3724000" />
+      <workItem from="1576745721753" duration="626000" />
+      <workItem from="1576754466010" duration="1040000" />
+      <workItem from="1576763499160" duration="70000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="75329000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="848" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26206434" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.25396827" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3997114" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32756132" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32756132" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" weight="0.32756132" />
+      <window_info anchor="bottom" id="Spring" order="12" weight="0.32900432" />
+      <window_info anchor="bottom" id="Java Enterprise" order="13" />
+      <window_info anchor="bottom" id="Messages" order="14" weight="0.17893218" />
+      <window_info anchor="bottom" id="Application Servers" order="15" weight="0.32900432" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Maven" order="5" weight="0.3297587" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Database" order="8" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25402144" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.21789321" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32900432" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32900432" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" weight="0.32756132" />
+      <window_info anchor="bottom" id="Spring" order="12" weight="0.32900432" />
+      <window_info anchor="bottom" id="Java Enterprise" order="13" />
+      <window_info anchor="bottom" id="Messages" order="14" weight="0.32756132" />
+      <window_info anchor="bottom" id="Application Servers" order="15" weight="0.32900432" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Maven" order="5" weight="0.3297587" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Database" order="8" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/mini-video-admin-mng/target/mini-video-admin-mng/static/pages/js/reportList.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-969">
+          <caret selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mini-video-admin-mng/src/main/webapp/static/pages/js/login.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mini-video-admin-mng/src/main/webapp/static/pages/js/commonJSFunction.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mini-video-admin-mng/src/main/webapp/WEB-INF/center/common/header.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="589">
+          <caret line="31" column="21" selection-start-line="31" selection-start-column="21" selection-end-line="31" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mini-video-admin-mng/src/main/webapp/WEB-INF/center/common/commonFooterJS.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="760">
+          <caret line="40" selection-start-line="40" selection-end-line="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mini-video-admin-mng/src/main/webapp/WEB-INF/center/common/menu.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="393">
+          <caret line="96" column="25" lean-forward="true" selection-start-line="96" selection-start-column="25" selection-end-line="96" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mini-video-admin-mng/src/main/webapp/static/layouts/layout/css/layout.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-825">
+          <caret line="21" column="27" lean-forward="true" selection-start-line="21" selection-start-column="27" selection-end-line="21" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mini-video-admin-mng/src/main/webapp/static/layouts/layout/css/custom.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="9" lean-forward="true" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mini-video-admin-mng/src/main/webapp/WEB-INF/center/common/commonHeaderCSS.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="526">
+          <caret line="50" lean-forward="true" selection-end-line="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mini-video-admin-mng/src/main/webapp/WEB-INF/center/center.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="626">
+          <caret line="69" column="8" selection-start-line="69" selection-start-column="8" selection-end-line="69" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mini-video-admin-mng/src/main/webapp/WEB-INF/center/video/bgmList.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="16" lean-forward="true" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mini-video-admin-common/src/main/java/edu/kkbdv/utils/PagedResult.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mini-video-admin-pojo/src/main/java/edu/kkbdv/pojo/vo/ForumVo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="741">
+          <caret line="39" column="27" selection-start-line="39" selection-start-column="27" selection-end-line="39" selection-end-column="27" />
+          <folding>
+            <element signature="e#596#597#0" expanded="true" />
+            <element signature="e#632#633#0" expanded="true" />
+            <element signature="e#660#661#0" expanded="true" />
+            <element signature="e#697#698#0" expanded="true" />
+            <element signature="e#730#731#0" expanded="true" />
+            <element signature="e#782#783#0" expanded="true" />
+            <element signature="e#826#827#0" expanded="true" />
+            <element signature="e#865#866#0" expanded="true" />
+            <element signature="e#900#901#0" expanded="true" />
+            <element signature="e#956#957#0" expanded="true" />
+            <element signature="e#1004#1005#0" expanded="true" />
+            <element signature="e#1040#1041#0" expanded="true" />
+            <element signature="e#1072#1073#0" expanded="true" />
+            <element signature="e#1122#1123#0" expanded="true" />
+            <element signature="e#1164#1165#0" expanded="true" />
+            <element signature="e#1202#1203#0" expanded="true" />
+            <element signature="e#1235#1236#0" expanded="true" />
+            <element signature="e#1288#1289#0" expanded="true" />
+            <element signature="e#1332#1333#0" expanded="true" />
+            <element signature="e#1368#1369#0" expanded="true" />
+            <element signature="e#1400#1401#0" expanded="true" />
+            <element signature="e#1450#1451#0" expanded="true" />
+            <element signature="e#1492#1493#0" expanded="true" />
+            <element signature="e#1529#1530#0" expanded="true" />
+            <element signature="e#1562#1563#0" expanded="true" />
+            <element signature="e#1614#1615#0" expanded="true" />
+            <element signature="e#1658#1659#0" expanded="true" />
+            <element signature="e#1699#1700#0" expanded="true" />
+            <element signature="e#1735#1736#0" expanded="true" />
+            <element signature="e#1794#1795#0" expanded="true" />
+            <element signature="e#1844#1845#0" expanded="true" />
+            <element signature="e#1878#1879#0" expanded="true" />
+            <element signature="e#1907#1908#0" expanded="true" />
+            <element signature="e#1952#1953#0" expanded="true" />
+            <element signature="e#1988#1989#0" expanded="true" />
+            <element signature="e#2021#2022#0" expanded="true" />
+            <element signature="e#2050#2051#0" expanded="true" />
+            <element signature="e#2094#2095#0" expanded="true" />
+            <element signature="e#2130#2131#0" expanded="true" />
+            <element signature="e#2165#2166#0" expanded="true" />
+            <element signature="e#2198#2199#0" expanded="true" />
+            <element signature="e#2248#2249#0" expanded="true" />
+            <element signature="e#2292#2293#0" expanded="true" />
+            <element signature="e#2333#2334#0" expanded="true" />
+            <element signature="e#2370#2371#0" expanded="true" />
+            <element signature="e#2430#2431#0" expanded="true" />
+            <element signature="e#2482#2483#0" expanded="true" />
+            <element signature="e#2516#2517#0" expanded="true" />
+            <element signature="e#2546#2547#0" expanded="true" />
+            <element signature="e#2592#2593#0" expanded="true" />
+            <element signature="e#2630#2631#0" expanded="true" />
+            <element signature="e#2665#2666#0" expanded="true" />
+            <element signature="e#2696#2697#0" expanded="true" />
+            <element signature="e#2744#2745#0" expanded="true" />
+            <element signature="e#2784#2785#0" expanded="true" />
+            <element signature="e#2820#2821#0" expanded="true" />
+            <element signature="e#2852#2853#0" expanded="true" />
+            <element signature="e#2902#2903#0" expanded="true" />
+            <element signature="e#2944#2945#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mini-video-admin-mapper/src/main/java/edu/kkbdv/mapper/ForumMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="55" lean-forward="true" selection-start-line="4" selection-start-column="55" selection-end-line="4" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mini-video-admin-mapper/src/main/java/edu/kkbdv/mapper/BgmMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="188" column="58" selection-start-line="188" selection-start-column="58" selection-end-line="188" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mini-video-admin-mapper/src/main/java/edu/kkbdv/mapper/BgmMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mini-video-admin-pojo/src/main/java/edu/kkbdv/pojo/Forum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mini-video-admin-mapper/src/main/java/edu/kkbdv/mapper/ForumMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-168">
+          <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mini-video-admin-mng/src/main/webapp/WEB-INF/center/forum/forumList.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="66" selection-start-line="14" selection-start-column="66" selection-end-line="14" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mini-video-admin-service/src/main/java/edu/kkbdv/service/ForumService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="34" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mini-video-admin-service/src/main/java/edu/kkbdv/service/impl/ForumServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="35" column="43" selection-start-line="35" selection-start-column="43" selection-end-line="35" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1024#1025#0" expanded="true" />
+            <element signature="e#1074#1075#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mini-video-admin-pojo/src/main/java/edu/kkbdv/pojo/vo/Reports.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" column="26" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mini-video-admin-mng/src/main/webapp/WEB-INF/center/video/reportList.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="27" column="31" selection-start-line="27" selection-start-column="31" selection-end-line="27" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mini-video-admin-mng/src/main/webapp/static/pages/js/forumList.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="55" column="16" selection-start-line="55" selection-start-column="16" selection-end-line="56" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mini-video-admin-mng/src/main/java/edu/kkbdv/controller/HelloController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mini-video-admin-service/src/main/java/edu/kkbdv/service/UsersService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="9" column="16" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://G:/Maven/apache-maven-3.3.3/myresp/org/mybatis/mybatis/3.2.8/mybatis-3.2.8.jar!/org/apache/ibatis/binding/MapperProxy.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="281">
+          <caret line="35" selection-start-line="35" selection-end-line="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mini-video-admin-mapper/src/main/java/edu/kkbdv/mapper/UsersMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="92" column="19" selection-start-line="92" selection-start-column="17" selection-end-line="92" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://G:/Maven/apache-maven-3.3.3/myresp/org/springframework/spring-core/4.3.8.RELEASE/spring-core-4.3.8.RELEASE.jar!/org/springframework/cglib/proxy/MethodProxy.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="129">
+          <caret line="105" selection-start-line="105" selection-end-line="105" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://G:/Maven/apache-maven-3.3.3/myresp/org/springframework/spring-tx/4.3.8.RELEASE/spring-tx-4.3.8.RELEASE.jar!/org/springframework/transaction/interceptor/TransactionAspectSupport.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="111">
+          <caret line="150" selection-start-line="150" selection-end-line="150" />
+          <folding>
+            <element signature="e#16959#16960#0" expanded="true" />
+            <element signature="e#17020#17021#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://G:/Maven/apache-maven-3.3.3/myresp/org/springframework/spring-tx/4.3.8.RELEASE/spring-tx-4.3.8.RELEASE.jar!/org/springframework/transaction/interceptor/TransactionInterceptor.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="129">
+          <caret line="35" selection-start-line="35" selection-end-line="35" />
+          <folding>
+            <element signature="e#1507#1671#0" expanded="true" />
+            <element signature="e#1670#1671#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mini-video-admin-mapper/src/main/java/edu/kkbdv/mapper/UsersMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mini-video-admin-service/src/main/java/edu/kkbdv/service/impl/UsersServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="356">
+          <caret line="77" column="26" lean-forward="true" selection-start-line="77" selection-start-column="26" selection-end-line="77" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mini-video-admin-common/src/main/java/edu/kkbdv/enums/VideoStatusEnum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="5" lean-forward="true" selection-start-column="5" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mini-video-admin-mapper/src/main/java/edu/kkbdv/mapper/VideosMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="99" column="2" selection-start-line="99" selection-start-column="2" selection-end-line="99" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mini-video-admin-mng/src/main/webapp/static/pages/js/reportList.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="9" column="18" lean-forward="true" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
+          <folding>
+            <element signature="n#style#0;n#button#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mini-video-admin-mng/src/main/java/edu/kkbdv/interceptor/LoginInterceptor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="22" column="24" selection-start-line="22" selection-start-column="24" selection-end-line="22" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mini-video-admin-mng/src/main/java/edu/kkbdv/controller/VideoController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="46" column="17" selection-start-line="46" selection-start-column="17" selection-end-line="46" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mini-video-admin-service/src/main/java/edu/kkbdv/service/VideoService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="23" column="16" selection-start-line="23" selection-start-column="16" selection-end-line="23" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mini-video-admin-mng/src/main/webapp/static/pages/js/usersList.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="969">
+          <caret line="51" column="12" selection-start-line="51" selection-start-column="12" selection-end-line="52" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mini-video-admin-mng/src/main/webapp/index.jsp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mini-video-admin-mng/src/main/webapp/WEB-INF/center/hello.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" column="25" selection-start-line="1" selection-start-column="25" selection-end-line="1" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mini-video-admin-mng/src/main/webapp/WEB-INF/center/imooc.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="8" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mini-video-admin-mng/src/main/webapp/WEB-INF/center/login.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="11" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mini-video-admin-mng/src/main/java/edu/kkbdv/controller/ForumController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mini-video-admin-service/src/main/java/edu/kkbdv/service/impl/VideoServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2204">
+          <caret line="139" column="55" selection-start-line="139" selection-start-column="55" selection-end-line="139" selection-end-column="55" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mini-video-admin-mng/src/main/java/edu/kkbdv/controller/UsersController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="37" column="56" selection-start-line="37" selection-start-column="56" selection-end-line="37" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mini-video-admin-mapper/src/main/java/edu/kkbdv/mapper/UsersReportMapperCustom.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="9" column="9" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mini-video-admin-mapper/src/main/java/edu/kkbdv/mapper/UsersReportMapperCustom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mini-video-admin-mapper/src/main/java/edu/kkbdv/mapper/VideosMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mini-video-admin-mng/src/main/java/edu/kkbdv/bean/AdminUser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="279">
+          <caret line="15" column="35" selection-start-line="15" selection-start-column="35" selection-end-line="15" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>mini-video-admin-mng:war</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>mini-video-admin-service</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: com.alibaba:druid:1.1.0</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
